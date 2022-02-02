@@ -4,7 +4,7 @@
 const celsius = 0;
 const fahrenheit = 212;
 
-const formula = (212 - 32) / 1.8;
+const formula = (212 - 32) * 5 / 9;
 
 
 console.log(formula);
